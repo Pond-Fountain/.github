@@ -10,10 +10,9 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
-We build, collaborate, and brainstorm all for the benefit of Pond0x users. $PORK $PNDC $PEPE $PONDX 
+We build, collaborate, and brainstorm all for the benefit of Pond0x users. 
 
-OUR OFFICIAL CHANNELS. • X: - https://x.com/zepondfountain • Telegram: - https://t.me/zepondfountain
-
+🧙 OUR MAGIC:
 • Telegram bots
 • Python Bots
 • Web Applications
